@@ -1,0 +1,2 @@
+This is a good product., 'Truthful', 
+This is a bad product., 'Deceptive', 
